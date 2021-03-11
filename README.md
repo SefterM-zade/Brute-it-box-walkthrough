@@ -1,4 +1,4 @@
-# ![Markdown logo](images/brute-it.jpg) Brute it
+# ![brute-it logo](images/brute-it.jpg) Brute it
 ### Learn how to brute, hash cracking and escalate privileges in this box!
 ___
 ## Network scanning

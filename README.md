@@ -333,6 +333,13 @@ Session completed.
 ```
 > Found: root password -> footbal
 
+## Login as root
+```
+su root
+Password: 
+root@bruteit:/home/john# 
+```
+
 ## Or read root.txt
 ```
 sudo cat /root/root.txt
